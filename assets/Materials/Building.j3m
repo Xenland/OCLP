@@ -1,0 +1,8 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Flip Repeat Textures/Building/WindowD.jpg
+        NormalMap : Flip Repeat Textures/Building/WindowN.png
+     }
+    AdditionalRenderState {
+    }
+}

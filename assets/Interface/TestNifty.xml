@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nifty xmlns="http://nifty-gui.sourceforge.net/nifty.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+       xsi:schemaLocation="http://nifty-gui.sourceforge.net/nifty.xsd http://nifty-gui.sourceforge.net/nifty.xsd">
+           
+           
+  <screen id="start">
+<layer id="background"childLayout="center">
+    <panel id="start" height="180%" width="180%" valign="center" childLayout="center">
+    <image filename="Interface/Start.tga"></image>
+    </panel>
+    </layer>
+  </screen>
+  
+  
+</nifty>
